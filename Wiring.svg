@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.24024167"
-     inkscape:cx="397.51639"
-     inkscape:cy="944.88189"
+     inkscape:zoom="1.3590121"
+     inkscape:cx="396.97954"
+     inkscape:cy="1657.8219"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
@@ -4437,7 +4437,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.0565913"
          x="108.06152"
          y="444.96918"
-         id="tspan52283">- For UBS MSC Version solder W25Qxx Flash IC on bottom</tspan><tspan
+         id="tspan52283">- For USB MSC Version solder W25Qxx Flash IC on bottom</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.0565913"
          x="108.06152"
@@ -4507,6 +4507,6 @@
          id="tspan37316"
          style="stroke-width:0.264583"
          x="87.920082"
-         y="469.17538"></tspan></text>
+         y="469.17538" /></text>
   </g>
 </svg>
